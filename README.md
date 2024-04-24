@@ -12,6 +12,7 @@ Codes From Top Teams in 2024 AIC challenge (not in any particular order)
 
 
 ## Track 3: Naturalistic Driving Action Recognition
+* [TeleAI - Team 155](https://github.com/wolfworld6/AIcity2024-track3)
 
 
 
