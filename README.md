@@ -12,6 +12,8 @@ Codes From Top Teams in 2024 AIC challenge (not in any particular order)
 * [AIO_ISC - Team 28](https://github.com/AIVIETNAMResearch/AI-City-2024-Track2)
 * [Alibaba - Team 208](https://github.com/AliOpenTrek/AICITY2024_Track2_AliOpenTrek_CityLLaVA)
 * [UCF-SST-NLP - Team 219](https://github.com/UCF-SST-Lab/AICity-2024-Track2-CVPRW)
+* [Lighthouse - Team 68](https://github.com/quangminhdinh/TrafficVLM)
+* [HCMUS - Team 91](https://github.com/ToTuanAn/AICityChallenge2024_Track2)
 
 
 
